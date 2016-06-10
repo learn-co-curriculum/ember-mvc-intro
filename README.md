@@ -24,7 +24,7 @@ In Ember, the MVC framework is *slightly* different from Rails. In Ember, we hav
 
 There are other aspects of an Ember app too:
 
-* In Ember, the controller is actually responsible for decorating data with with display logic and changing that decoration in response to the users' actions (i.e. action handling). 
+* In Ember, the controller is actually responsible for decorating data with display logic and changing that decoration in response to the users' actions (i.e. action handling). 
 * The adapter is responsible for connecting our app to the external API or database from which it retrieves data. 
 * Components are similar to partials in Rails––they allow us to bundle up and re-use portions of our templates. But, components are smart––they can have their own properties and actions. 
 
@@ -336,3 +336,5 @@ Once again, just to recap, here's the flow of data through our Ember app:
 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/ember-mvc-intro'>Introduction to Ember MVC</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/ember-mvc-intro'>Introduction to Ember MVC</a> on Learn.co and start learning to code for free.</p>
